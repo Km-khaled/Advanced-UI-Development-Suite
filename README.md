@@ -6,7 +6,7 @@ This repository showcases a collection of user interface (UI) projects demonstra
 ## Projects
 
 ### 1. XO Game (Tic-Tac-Toe)
-A classic two-player game implemented using JavaFX and following the Model-View-Controller (MVC) architecture.
+A classic two-player game was implemented using JavaFX and following the Model-View-Controller (MVC) architecture.
 
 **Key Features:**
 - Interactive game board
@@ -45,7 +45,7 @@ An interactive drawing application built with web technologies.
 - Shape tools (rectangle, circle, triangle)
 - Color picker
 - Image upload and editing
-- Save functionality
+- Save Functionality
 
 **Technologies:** HTML5, CSS3, JavaScript, Canvas API
 
@@ -80,7 +80,7 @@ An interactive drawing application built with web technologies.
 Contributions to improve the projects or add new features are welcome. Please follow these steps:
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature-branch`)
-3. Make your changes and commit (`git commit -am 'Add some feature'`)
+3. Make your changes and commit (`git commit -m 'Add some feature'`)
 4. Push to the branch (`git push origin feature-branch`)
 5. Create a new Pull Request
 
@@ -90,4 +90,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 - JavaFX Community
 - HTML5 Canvas contributors
-- Open source UI framework developers
+- Open-source UI framework developers
